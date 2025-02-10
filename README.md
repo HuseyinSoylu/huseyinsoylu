@@ -1,17 +1,12 @@
 ### <div align="center">I'm Hüseyin, I'm full-stack software engineer 👨‍💻</div>  
   
-
-- 🔭 I'm currently seeking for a work  
   
 
 - 🌱 I’m currently learning Java and Spring Boot  
   
 
 - ⚡ I'm currently working on setting up my personal blog.  
-  
-
-- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1Zui8VQRf7Bms8_13m8oPKMHPeu-AgY--/view?usp=sharing)  
-  
+    
 
 - ✉️ You can contact me via email: [huseyinsoylu034@gmail.com](mailto:huseyinsoylu034@gmail.com)  
   
